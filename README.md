@@ -1,19 +1,25 @@
 # CryptotpryC
 
 ## Inspiration
-This was my first blockchain web app.
+This is our first blockchain web app.
 
 ## What it does
 This can help you search for a certain value for a cryptocurrency.
 
-## How I built it
-I use python and some blockchain tech to build it.
+## How we built it
+We used python and some blockchain tech to build it.
 
-## Challenges I ran into
-I tried to use Hedera at first, but unfortunately, after help from all the friendly and patient community members, it still doesn't work. So I switch to use other services.
+## Challenges we ran into
+We tried to use Hedera at it's best, but unfortunately, after help from all the friendly and patient community members, it still didn't work. So we switched to use other services.
 
-## Accomplishments that I'm proud of
-Create my first blockchain (sort of) website.
+## Accomplishments that we're proud of
+Create our first blockchain (sort of) website.
 
-## What I learned
-I learned basic of blockchain.
+## What we learned
+We learned the basic of blockchain and hedera
+
+## Our team
+[boyuan12](https://github.com/boyuan12) and
+[LoopGlitch26](https://github.com/LoopGlitch26)
+
+## Submitted for [MLH](https://github.com/mlh) [Hack-The-Chain Hackathon](https://organize.mlh.io/participants/events/3469-hack-the-chain)
