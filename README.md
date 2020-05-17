@@ -2,6 +2,8 @@
 
 # CryptotpryC
 
+![image](https://user-images.githubusercontent.com/53336715/82143031-783f8d00-985e-11ea-8ff8-fa02076ba3be.png)
+
 ## Inspiration
 This is our first blockchain web app.
 
