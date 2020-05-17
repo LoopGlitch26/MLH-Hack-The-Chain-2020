@@ -22,6 +22,13 @@ Create our first blockchain (sort of) website.
 ## What we learned
 We learned the basic of blockchain and hedera
 
+## What does it do
+It provides data about your token when you enter address and ABI
+
+address: Put your address of your token from your blockchain service
+
+ABI: Enter your ABI code
+
 ## Our team
 [boyuan12](https://github.com/boyuan12) and
 [LoopGlitch26](https://github.com/LoopGlitch26)
