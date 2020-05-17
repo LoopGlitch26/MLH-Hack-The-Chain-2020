@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4494b0f6-7e4f-45d0-82d6-b668af25035d/deploy-status)](https://app.netlify.com/sites/cryptotpryc/deploys)
+
 # CryptotpryC
 
 ## Inspiration
